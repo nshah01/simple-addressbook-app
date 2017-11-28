@@ -1,0 +1,5 @@
+com\springtraining\Main\SpringMain.class
+com\springtraining\Main\JavaConfig.class
+com\springtraining\controller\AddressSpringController.class
+com\springtraining\VO\AddressVO.class
+com\springtraining\service\AddressService.class
